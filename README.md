@@ -1,2 +1,2 @@
 # hello-world
-just do it
+学习git
