@@ -1,2 +1,2 @@
 # hello-world
-学习git
+一只萌新开始学习GIT
